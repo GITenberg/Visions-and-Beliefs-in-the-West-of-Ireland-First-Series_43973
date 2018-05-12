@@ -23,6 +23,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43973#Visions-and-Beliefs-in-the-West-of-Ireland-First-Series
 gutenberg_issued: '2013-10-18'
 gutenberg_type: Text
 identifiers:
